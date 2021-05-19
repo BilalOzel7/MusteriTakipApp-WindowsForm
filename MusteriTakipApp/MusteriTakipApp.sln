@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusteriTakipApp", "MusteriTakipApp\MusteriTakipApp.csproj", "{30F49F03-6032-4626-B33A-FB218A84A7BB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MusteriTakip", "MusteriTakip\MusteriTakip.vdproj", "{D519C4FD-DA80-476C-8222-58DA92883604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F49F03-6032-4626-B33A-FB218A84A7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F49F03-6032-4626-B33A-FB218A84A7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F49F03-6032-4626-B33A-FB218A84A7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F49F03-6032-4626-B33A-FB218A84A7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D519C4FD-DA80-476C-8222-58DA92883604}.Debug|Any CPU.ActiveCfg = Debug
+		{D519C4FD-DA80-476C-8222-58DA92883604}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2331271-5D81-4DF6-9674-FD53D1E28A09}
+	EndGlobalSection
+EndGlobal

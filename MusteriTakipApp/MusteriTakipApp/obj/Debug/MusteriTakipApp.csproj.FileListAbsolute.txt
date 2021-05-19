@@ -1,0 +1,111 @@
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe.config
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.pdb
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\bin\Debug\FontAwesome.Sharp.dll
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csprojAssemblyReference.cache
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Form1.resources
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Properties.Resources.resources
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.GenerateResource.cache
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CoreCompileInputs.cache
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CopyComplete
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.exe
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.pdb
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmKategori.resources
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmMusteri.resources
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmTedarikci.resources
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmUrun.resources
+C:\BİLALPROJE\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmSatis.resources
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe.config
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.pdb
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.dll
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\FontAwesome.Sharp.dll
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.xml
+D:\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csprojAssemblyReference.cache
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Form1.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmKategori.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmMusteri.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmSatis.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmTedarikci.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmUrun.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Properties.Resources.resources
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.GenerateResource.cache
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CoreCompileInputs.cache
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CopyComplete
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.exe
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.pdb
+D:\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Migrations.ilk.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csprojAssemblyReference.cache
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Form1.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmKategori.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmMusteri.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmSatis.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmTedarikci.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmUrun.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Migrations.ilk.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Properties.Resources.resources
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.GenerateResource.cache
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CoreCompileInputs.cache
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.exe
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.pdb
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe.config
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.pdb
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.dll
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\FontAwesome.Sharp.dll
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.xml
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CopyComplete
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe.config
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.pdb
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.dll
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.xml
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csprojAssemblyReference.cache
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Form1.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmKategori.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmMusteri.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmSatis.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmTedarikci.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmUrun.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Migrations.ilk.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Properties.Resources.resources
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.GenerateResource.cache
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CopyComplete
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.exe
+C:\Users\bilal\Desktop\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.pdb
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe.config
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.pdb
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.dll
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.xml
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csprojAssemblyReference.cache
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Form1.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmKategori.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmMusteri.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmSatis.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmTedarikci.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Forms.frmUrun.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Migrations.ilk.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Properties.Resources.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.GenerateResource.cache
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.csproj.CopyComplete
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.exe
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.pdb
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.Migrations.MusteriAdeklendi.resources
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.exe.manifest
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\bin\Debug\MusteriTakipApp.application
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.TrustInfo.xml
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.exe.manifest
+C:\Users\bilal\Desktop\Form Proje (M.Bilal ÖZEL)\MusteriTakipDTO\MusteriTakipApp\MusteriTakipApp\obj\Debug\MusteriTakipApp.application
